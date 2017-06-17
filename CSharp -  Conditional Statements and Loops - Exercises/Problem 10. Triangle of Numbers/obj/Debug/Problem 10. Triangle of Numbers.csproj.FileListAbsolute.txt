@@ -1,0 +1,5 @@
+D:\Programs\C#\CSharp -  Conditional Statements and Loops - Exercises\Problem 10. Triangle of Numbers\bin\Debug\Problem_10.Triangle_of_Numbers.exe.config
+D:\Programs\C#\CSharp -  Conditional Statements and Loops - Exercises\Problem 10. Triangle of Numbers\bin\Debug\Problem_10.Triangle_of_Numbers.exe
+D:\Programs\C#\CSharp -  Conditional Statements and Loops - Exercises\Problem 10. Triangle of Numbers\bin\Debug\Problem_10.Triangle_of_Numbers.pdb
+D:\Programs\C#\CSharp -  Conditional Statements and Loops - Exercises\Problem 10. Triangle of Numbers\obj\Debug\Problem_10.Triangle_of_Numbers.exe
+D:\Programs\C#\CSharp -  Conditional Statements and Loops - Exercises\Problem 10. Triangle of Numbers\obj\Debug\Problem_10.Triangle_of_Numbers.pdb

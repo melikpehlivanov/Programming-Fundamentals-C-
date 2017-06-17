@@ -1,0 +1,6 @@
+D:\Programs\C#\CSharp -  Conditional Statements and Loops - Exercises\01. Choose a Drink\bin\Debug\_01.Choose_a_Drink.exe.config
+D:\Programs\C#\CSharp -  Conditional Statements and Loops - Exercises\01. Choose a Drink\bin\Debug\_01.Choose_a_Drink.exe
+D:\Programs\C#\CSharp -  Conditional Statements and Loops - Exercises\01. Choose a Drink\bin\Debug\_01.Choose_a_Drink.pdb
+D:\Programs\C#\CSharp -  Conditional Statements and Loops - Exercises\01. Choose a Drink\obj\Debug\01. Choose a Drink.csprojResolveAssemblyReference.cache
+D:\Programs\C#\CSharp -  Conditional Statements and Loops - Exercises\01. Choose a Drink\obj\Debug\_01.Choose_a_Drink.exe
+D:\Programs\C#\CSharp -  Conditional Statements and Loops - Exercises\01. Choose a Drink\obj\Debug\_01.Choose_a_Drink.pdb

@@ -1,0 +1,6 @@
+D:\Programs\C#\CSharp -  Conditional Statements and Loops - Exercises\Problem 4. Hotel\bin\Debug\Problem_4.Hotel.exe.config
+D:\Programs\C#\CSharp -  Conditional Statements and Loops - Exercises\Problem 4. Hotel\bin\Debug\Problem_4.Hotel.exe
+D:\Programs\C#\CSharp -  Conditional Statements and Loops - Exercises\Problem 4. Hotel\bin\Debug\Problem_4.Hotel.pdb
+D:\Programs\C#\CSharp -  Conditional Statements and Loops - Exercises\Problem 4. Hotel\obj\Debug\Problem 4. Hotel.csprojResolveAssemblyReference.cache
+D:\Programs\C#\CSharp -  Conditional Statements and Loops - Exercises\Problem 4. Hotel\obj\Debug\Problem_4.Hotel.exe
+D:\Programs\C#\CSharp -  Conditional Statements and Loops - Exercises\Problem 4. Hotel\obj\Debug\Problem_4.Hotel.pdb

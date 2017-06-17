@@ -1,0 +1,6 @@
+D:\Programs\C#\CSharp -  Conditional Statements and Loops - Exercises\Problem 3. Restaurant Discount\bin\Debug\Problem_3.Restaurant_Discount.exe.config
+D:\Programs\C#\CSharp -  Conditional Statements and Loops - Exercises\Problem 3. Restaurant Discount\bin\Debug\Problem_3.Restaurant_Discount.exe
+D:\Programs\C#\CSharp -  Conditional Statements and Loops - Exercises\Problem 3. Restaurant Discount\bin\Debug\Problem_3.Restaurant_Discount.pdb
+D:\Programs\C#\CSharp -  Conditional Statements and Loops - Exercises\Problem 3. Restaurant Discount\obj\Debug\Problem 3. Restaurant Discount.csprojResolveAssemblyReference.cache
+D:\Programs\C#\CSharp -  Conditional Statements and Loops - Exercises\Problem 3. Restaurant Discount\obj\Debug\Problem_3.Restaurant_Discount.exe
+D:\Programs\C#\CSharp -  Conditional Statements and Loops - Exercises\Problem 3. Restaurant Discount\obj\Debug\Problem_3.Restaurant_Discount.pdb

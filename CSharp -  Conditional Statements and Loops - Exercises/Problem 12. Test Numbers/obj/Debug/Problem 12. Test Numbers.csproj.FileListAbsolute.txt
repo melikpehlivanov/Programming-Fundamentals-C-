@@ -1,0 +1,5 @@
+D:\Programs\C#\CSharp -  Conditional Statements and Loops - Exercises\Problem 12. Test Numbers\bin\Debug\Problem_12.Test_Numbers.exe.config
+D:\Programs\C#\CSharp -  Conditional Statements and Loops - Exercises\Problem 12. Test Numbers\bin\Debug\Problem_12.Test_Numbers.exe
+D:\Programs\C#\CSharp -  Conditional Statements and Loops - Exercises\Problem 12. Test Numbers\bin\Debug\Problem_12.Test_Numbers.pdb
+D:\Programs\C#\CSharp -  Conditional Statements and Loops - Exercises\Problem 12. Test Numbers\obj\Debug\Problem_12.Test_Numbers.exe
+D:\Programs\C#\CSharp -  Conditional Statements and Loops - Exercises\Problem 12. Test Numbers\obj\Debug\Problem_12.Test_Numbers.pdb
