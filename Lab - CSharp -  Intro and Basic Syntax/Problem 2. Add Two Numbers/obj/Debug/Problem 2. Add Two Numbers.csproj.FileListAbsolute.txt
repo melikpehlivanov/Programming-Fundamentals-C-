@@ -1,0 +1,5 @@
+D:\Programs\C#\Lab - CSharp -  Intro and Basic Syntax\Problem 2. Add Two Numbers\bin\Debug\Problem_2.Add_Two_Numbers.exe.config
+D:\Programs\C#\Lab - CSharp -  Intro and Basic Syntax\Problem 2. Add Two Numbers\bin\Debug\Problem_2.Add_Two_Numbers.exe
+D:\Programs\C#\Lab - CSharp -  Intro and Basic Syntax\Problem 2. Add Two Numbers\bin\Debug\Problem_2.Add_Two_Numbers.pdb
+D:\Programs\C#\Lab - CSharp -  Intro and Basic Syntax\Problem 2. Add Two Numbers\obj\Debug\Problem_2.Add_Two_Numbers.exe
+D:\Programs\C#\Lab - CSharp -  Intro and Basic Syntax\Problem 2. Add Two Numbers\obj\Debug\Problem_2.Add_Two_Numbers.pdb

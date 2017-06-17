@@ -1,0 +1,5 @@
+D:\Programs\C#\Lab - CSharp -  Intro and Basic Syntax\Problem 3. Employee Data\bin\Debug\Problem_3.Employee_Data.exe.config
+D:\Programs\C#\Lab - CSharp -  Intro and Basic Syntax\Problem 3. Employee Data\bin\Debug\Problem_3.Employee_Data.exe
+D:\Programs\C#\Lab - CSharp -  Intro and Basic Syntax\Problem 3. Employee Data\bin\Debug\Problem_3.Employee_Data.pdb
+D:\Programs\C#\Lab - CSharp -  Intro and Basic Syntax\Problem 3. Employee Data\obj\Debug\Problem_3.Employee_Data.exe
+D:\Programs\C#\Lab - CSharp -  Intro and Basic Syntax\Problem 3. Employee Data\obj\Debug\Problem_3.Employee_Data.pdb

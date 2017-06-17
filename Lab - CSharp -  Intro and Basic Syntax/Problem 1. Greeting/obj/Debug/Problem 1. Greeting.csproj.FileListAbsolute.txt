@@ -1,0 +1,6 @@
+D:\Programs\C#\Lab - CSharp -  Intro and Basic Syntax\Problem 1. Greeting\bin\Debug\Problem_1.Greeting.exe.config
+D:\Programs\C#\Lab - CSharp -  Intro and Basic Syntax\Problem 1. Greeting\bin\Debug\Problem_1.Greeting.exe
+D:\Programs\C#\Lab - CSharp -  Intro and Basic Syntax\Problem 1. Greeting\bin\Debug\Problem_1.Greeting.pdb
+D:\Programs\C#\Lab - CSharp -  Intro and Basic Syntax\Problem 1. Greeting\obj\Debug\Problem 1. Greeting.csprojResolveAssemblyReference.cache
+D:\Programs\C#\Lab - CSharp -  Intro and Basic Syntax\Problem 1. Greeting\obj\Debug\Problem_1.Greeting.exe
+D:\Programs\C#\Lab - CSharp -  Intro and Basic Syntax\Problem 1. Greeting\obj\Debug\Problem_1.Greeting.pdb
