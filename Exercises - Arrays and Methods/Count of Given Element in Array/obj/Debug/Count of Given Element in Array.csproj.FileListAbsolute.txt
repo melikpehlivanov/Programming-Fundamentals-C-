@@ -1,0 +1,6 @@
+C:\Users\PC\documents\visual studio 2017\Projects\Exercises - Arrays and Methods\Count of Given Element in Array\bin\Debug\Count of Given Element in Array.exe.config
+C:\Users\PC\documents\visual studio 2017\Projects\Exercises - Arrays and Methods\Count of Given Element in Array\bin\Debug\Count of Given Element in Array.exe
+C:\Users\PC\documents\visual studio 2017\Projects\Exercises - Arrays and Methods\Count of Given Element in Array\bin\Debug\Count of Given Element in Array.pdb
+C:\Users\PC\documents\visual studio 2017\Projects\Exercises - Arrays and Methods\Count of Given Element in Array\obj\Debug\Count of Given Element in Array.exe
+C:\Users\PC\documents\visual studio 2017\Projects\Exercises - Arrays and Methods\Count of Given Element in Array\obj\Debug\Count of Given Element in Array.pdb
+C:\Users\PC\documents\visual studio 2017\Projects\Exercises - Arrays and Methods\Count of Given Element in Array\obj\Debug\Count of Given Element in Array.csprojResolveAssemblyReference.cache

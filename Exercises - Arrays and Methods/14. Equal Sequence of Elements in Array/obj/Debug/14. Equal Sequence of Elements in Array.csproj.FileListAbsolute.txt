@@ -1,0 +1,6 @@
+C:\Users\PC\documents\visual studio 2017\Projects\Exercises - Arrays and Methods\14. Equal Sequence of Elements in Array\bin\Debug\_14.Equal_Sequence_of_Elements_in_Array.exe.config
+C:\Users\PC\documents\visual studio 2017\Projects\Exercises - Arrays and Methods\14. Equal Sequence of Elements in Array\bin\Debug\_14.Equal_Sequence_of_Elements_in_Array.exe
+C:\Users\PC\documents\visual studio 2017\Projects\Exercises - Arrays and Methods\14. Equal Sequence of Elements in Array\bin\Debug\_14.Equal_Sequence_of_Elements_in_Array.pdb
+C:\Users\PC\documents\visual studio 2017\Projects\Exercises - Arrays and Methods\14. Equal Sequence of Elements in Array\obj\Debug\14. Equal Sequence of Elements in Array.csprojResolveAssemblyReference.cache
+C:\Users\PC\documents\visual studio 2017\Projects\Exercises - Arrays and Methods\14. Equal Sequence of Elements in Array\obj\Debug\_14.Equal_Sequence_of_Elements_in_Array.exe
+C:\Users\PC\documents\visual studio 2017\Projects\Exercises - Arrays and Methods\14. Equal Sequence of Elements in Array\obj\Debug\_14.Equal_Sequence_of_Elements_in_Array.pdb

@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2017\Projects\Exercises - Arrays and Methods\01. Hello Name\bin\Debug\_01.Hello_Name.exe.config
+c:\users\pc\documents\visual studio 2017\Projects\Exercises - Arrays and Methods\01. Hello Name\bin\Debug\_01.Hello_Name.exe
+c:\users\pc\documents\visual studio 2017\Projects\Exercises - Arrays and Methods\01. Hello Name\bin\Debug\_01.Hello_Name.pdb
+c:\users\pc\documents\visual studio 2017\Projects\Exercises - Arrays and Methods\01. Hello Name\obj\Debug\01. Hello Name.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2017\Projects\Exercises - Arrays and Methods\01. Hello Name\obj\Debug\_01.Hello_Name.exe
+c:\users\pc\documents\visual studio 2017\Projects\Exercises - Arrays and Methods\01. Hello Name\obj\Debug\_01.Hello_Name.pdb

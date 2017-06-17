@@ -1,0 +1,6 @@
+C:\Users\PC\documents\visual studio 2017\Projects\Exercises - Arrays and Methods\05. IntegerToBase\bin\Debug\_05.IntegerToBase.exe.config
+C:\Users\PC\documents\visual studio 2017\Projects\Exercises - Arrays and Methods\05. IntegerToBase\bin\Debug\_05.IntegerToBase.exe
+C:\Users\PC\documents\visual studio 2017\Projects\Exercises - Arrays and Methods\05. IntegerToBase\bin\Debug\_05.IntegerToBase.pdb
+C:\Users\PC\documents\visual studio 2017\Projects\Exercises - Arrays and Methods\05. IntegerToBase\obj\Debug\_05.IntegerToBase.exe
+C:\Users\PC\documents\visual studio 2017\Projects\Exercises - Arrays and Methods\05. IntegerToBase\obj\Debug\_05.IntegerToBase.pdb
+C:\Users\PC\documents\visual studio 2017\Projects\Exercises - Arrays and Methods\05. IntegerToBase\obj\Debug\05. IntegerToBase.csprojResolveAssemblyReference.cache

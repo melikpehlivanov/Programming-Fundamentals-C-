@@ -1,0 +1,5 @@
+C:\Users\PC\documents\visual studio 2017\Projects\Exercises - Arrays and Methods\15. Count of Capital Letters in Array\bin\Debug\_15.Count_of_Capital_Letters_in_Array.exe.config
+C:\Users\PC\documents\visual studio 2017\Projects\Exercises - Arrays and Methods\15. Count of Capital Letters in Array\bin\Debug\_15.Count_of_Capital_Letters_in_Array.exe
+C:\Users\PC\documents\visual studio 2017\Projects\Exercises - Arrays and Methods\15. Count of Capital Letters in Array\bin\Debug\_15.Count_of_Capital_Letters_in_Array.pdb
+C:\Users\PC\documents\visual studio 2017\Projects\Exercises - Arrays and Methods\15. Count of Capital Letters in Array\obj\Debug\_15.Count_of_Capital_Letters_in_Array.exe
+C:\Users\PC\documents\visual studio 2017\Projects\Exercises - Arrays and Methods\15. Count of Capital Letters in Array\obj\Debug\_15.Count_of_Capital_Letters_in_Array.pdb
