@@ -1,0 +1,6 @@
+D:\Programs\C#\CSharp - Conditional Statements and Loops - Lab\Problem 6. Theatre Promotions\bin\Debug\Problem_6.Theatre_Promotions.exe.config
+D:\Programs\C#\CSharp - Conditional Statements and Loops - Lab\Problem 6. Theatre Promotions\bin\Debug\Problem_6.Theatre_Promotions.exe
+D:\Programs\C#\CSharp - Conditional Statements and Loops - Lab\Problem 6. Theatre Promotions\bin\Debug\Problem_6.Theatre_Promotions.pdb
+D:\Programs\C#\CSharp - Conditional Statements and Loops - Lab\Problem 6. Theatre Promotions\obj\Debug\Problem 6. Theatre Promotions.csprojResolveAssemblyReference.cache
+D:\Programs\C#\CSharp - Conditional Statements and Loops - Lab\Problem 6. Theatre Promotions\obj\Debug\Problem_6.Theatre_Promotions.exe
+D:\Programs\C#\CSharp - Conditional Statements and Loops - Lab\Problem 6. Theatre Promotions\obj\Debug\Problem_6.Theatre_Promotions.pdb

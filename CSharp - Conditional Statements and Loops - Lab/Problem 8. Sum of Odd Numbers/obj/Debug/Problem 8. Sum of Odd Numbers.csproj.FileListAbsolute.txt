@@ -1,0 +1,6 @@
+D:\Programs\C#\CSharp - Conditional Statements and Loops - Lab\Problem 8. Sum of Odd Numbers\bin\Debug\Problem_8.Sum_of_Odd_Numbers.exe.config
+D:\Programs\C#\CSharp - Conditional Statements and Loops - Lab\Problem 8. Sum of Odd Numbers\bin\Debug\Problem_8.Sum_of_Odd_Numbers.exe
+D:\Programs\C#\CSharp - Conditional Statements and Loops - Lab\Problem 8. Sum of Odd Numbers\bin\Debug\Problem_8.Sum_of_Odd_Numbers.pdb
+D:\Programs\C#\CSharp - Conditional Statements and Loops - Lab\Problem 8. Sum of Odd Numbers\obj\Debug\Problem_8.Sum_of_Odd_Numbers.exe
+D:\Programs\C#\CSharp - Conditional Statements and Loops - Lab\Problem 8. Sum of Odd Numbers\obj\Debug\Problem_8.Sum_of_Odd_Numbers.pdb
+D:\Programs\C#\CSharp - Conditional Statements and Loops - Lab\Problem 8. Sum of Odd Numbers\obj\Debug\Problem 8. Sum of Odd Numbers.csprojResolveAssemblyReference.cache
