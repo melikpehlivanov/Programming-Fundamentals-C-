@@ -1,0 +1,5 @@
+D:\Programs\C#\Exercises - Data Types and Variables\14. ASCII String\bin\Debug\_14.ASCII_String.exe.config
+D:\Programs\C#\Exercises - Data Types and Variables\14. ASCII String\bin\Debug\_14.ASCII_String.exe
+D:\Programs\C#\Exercises - Data Types and Variables\14. ASCII String\bin\Debug\_14.ASCII_String.pdb
+D:\Programs\C#\Exercises - Data Types and Variables\14. ASCII String\obj\Debug\_14.ASCII_String.exe
+D:\Programs\C#\Exercises - Data Types and Variables\14. ASCII String\obj\Debug\_14.ASCII_String.pdb

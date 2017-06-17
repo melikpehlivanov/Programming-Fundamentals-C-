@@ -1,0 +1,6 @@
+D:\Programs\C#\Exercises - Data Types and Variables\1. Practice Integer Numbers\bin\Debug\_1.Practice_Integer_Numbers.exe.config
+D:\Programs\C#\Exercises - Data Types and Variables\1. Practice Integer Numbers\bin\Debug\_1.Practice_Integer_Numbers.exe
+D:\Programs\C#\Exercises - Data Types and Variables\1. Practice Integer Numbers\bin\Debug\_1.Practice_Integer_Numbers.pdb
+D:\Programs\C#\Exercises - Data Types and Variables\1. Practice Integer Numbers\obj\Debug\1. Practice Integer Numbers.csprojResolveAssemblyReference.cache
+D:\Programs\C#\Exercises - Data Types and Variables\1. Practice Integer Numbers\obj\Debug\_1.Practice_Integer_Numbers.exe
+D:\Programs\C#\Exercises - Data Types and Variables\1. Practice Integer Numbers\obj\Debug\_1.Practice_Integer_Numbers.pdb

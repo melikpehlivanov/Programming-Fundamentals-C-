@@ -1,0 +1,6 @@
+D:\Programs\C#\Exercises - Data Types and Variables\11. Practice Characters and Strings\bin\Debug\_11.Practice_Characters_and_Strings.exe.config
+D:\Programs\C#\Exercises - Data Types and Variables\11. Practice Characters and Strings\bin\Debug\_11.Practice_Characters_and_Strings.exe
+D:\Programs\C#\Exercises - Data Types and Variables\11. Practice Characters and Strings\bin\Debug\_11.Practice_Characters_and_Strings.pdb
+D:\Programs\C#\Exercises - Data Types and Variables\11. Practice Characters and Strings\obj\Debug\11. Practice Characters and Strings.csprojResolveAssemblyReference.cache
+D:\Programs\C#\Exercises - Data Types and Variables\11. Practice Characters and Strings\obj\Debug\_11.Practice_Characters_and_Strings.exe
+D:\Programs\C#\Exercises - Data Types and Variables\11. Practice Characters and Strings\obj\Debug\_11.Practice_Characters_and_Strings.pdb

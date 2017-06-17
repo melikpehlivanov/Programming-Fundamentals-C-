@@ -1,0 +1,5 @@
+D:\Programs\C#\Exercises - Data Types and Variables\2. Practice Floating Point Numbers\bin\Debug\_2.Practice_Floating_Point_Numbers.exe.config
+D:\Programs\C#\Exercises - Data Types and Variables\2. Practice Floating Point Numbers\bin\Debug\_2.Practice_Floating_Point_Numbers.exe
+D:\Programs\C#\Exercises - Data Types and Variables\2. Practice Floating Point Numbers\bin\Debug\_2.Practice_Floating_Point_Numbers.pdb
+D:\Programs\C#\Exercises - Data Types and Variables\2. Practice Floating Point Numbers\obj\Debug\_2.Practice_Floating_Point_Numbers.exe
+D:\Programs\C#\Exercises - Data Types and Variables\2. Practice Floating Point Numbers\obj\Debug\_2.Practice_Floating_Point_Numbers.pdb

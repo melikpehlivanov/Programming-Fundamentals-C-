@@ -1,0 +1,5 @@
+D:\Programs\C#\Exercises - Data Types and Variables\15. Calculator\bin\Debug\_15.Calculator.exe
+D:\Programs\C#\Exercises - Data Types and Variables\15. Calculator\bin\Debug\_15.Calculator.pdb
+D:\Programs\C#\Exercises - Data Types and Variables\15. Calculator\obj\Debug\15. Calculator.csprojResolveAssemblyReference.cache
+D:\Programs\C#\Exercises - Data Types and Variables\15. Calculator\obj\Debug\_15.Calculator.exe
+D:\Programs\C#\Exercises - Data Types and Variables\15. Calculator\obj\Debug\_15.Calculator.pdb

@@ -1,0 +1,5 @@
+D:\Programs\C#\Exercises - Data Types and Variables\3. Exchange Variable Values\bin\Debug\_3.Exchange_Variable_Values.exe.config
+D:\Programs\C#\Exercises - Data Types and Variables\3. Exchange Variable Values\bin\Debug\_3.Exchange_Variable_Values.exe
+D:\Programs\C#\Exercises - Data Types and Variables\3. Exchange Variable Values\bin\Debug\_3.Exchange_Variable_Values.pdb
+D:\Programs\C#\Exercises - Data Types and Variables\3. Exchange Variable Values\obj\Debug\_3.Exchange_Variable_Values.exe
+D:\Programs\C#\Exercises - Data Types and Variables\3. Exchange Variable Values\obj\Debug\_3.Exchange_Variable_Values.pdb

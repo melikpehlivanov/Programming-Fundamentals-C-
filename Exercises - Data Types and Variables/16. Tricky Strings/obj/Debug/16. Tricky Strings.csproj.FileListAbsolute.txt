@@ -1,0 +1,6 @@
+D:\Programs\C#\Exercises - Data Types and Variables\16. Tricky Strings\bin\Debug\_16.Tricky_Strings.exe.config
+D:\Programs\C#\Exercises - Data Types and Variables\16. Tricky Strings\bin\Debug\_16.Tricky_Strings.exe
+D:\Programs\C#\Exercises - Data Types and Variables\16. Tricky Strings\bin\Debug\_16.Tricky_Strings.pdb
+D:\Programs\C#\Exercises - Data Types and Variables\16. Tricky Strings\obj\Debug\16. Tricky Strings.csprojResolveAssemblyReference.cache
+D:\Programs\C#\Exercises - Data Types and Variables\16. Tricky Strings\obj\Debug\_16.Tricky_Strings.exe
+D:\Programs\C#\Exercises - Data Types and Variables\16. Tricky Strings\obj\Debug\_16.Tricky_Strings.pdb
