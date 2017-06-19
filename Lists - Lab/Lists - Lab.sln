@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Remove Negatives and Reverse", "Remove Negatives and Reverse\01. Remove Negatives and Reverse.csproj", "{23DA5853-3184-446D-AB95-3CB42CDC0959}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. AppendLists", "AppendLists\02. AppendLists.csproj", "{65F352D2-8267-4625-A07D-00C88C732E51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. SumAdjacentEqualNumbers", "SumAdjacentEqualNumbers\03. SumAdjacentEqualNumbers.csproj", "{70BB4F32-F28D-4227-9748-5D870330A69F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. SplitByWordCasing", "SplitByWordCasing\04. SplitByWordCasing.csproj", "{F3B29F09-4F02-439D-8724-143753C34878}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23DA5853-3184-446D-AB95-3CB42CDC0959}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23DA5853-3184-446D-AB95-3CB42CDC0959}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23DA5853-3184-446D-AB95-3CB42CDC0959}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23DA5853-3184-446D-AB95-3CB42CDC0959}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65F352D2-8267-4625-A07D-00C88C732E51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65F352D2-8267-4625-A07D-00C88C732E51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65F352D2-8267-4625-A07D-00C88C732E51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65F352D2-8267-4625-A07D-00C88C732E51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70BB4F32-F28D-4227-9748-5D870330A69F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70BB4F32-F28D-4227-9748-5D870330A69F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70BB4F32-F28D-4227-9748-5D870330A69F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70BB4F32-F28D-4227-9748-5D870330A69F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3B29F09-4F02-439D-8724-143753C34878}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3B29F09-4F02-439D-8724-143753C34878}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3B29F09-4F02-439D-8724-143753C34878}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3B29F09-4F02-439D-8724-143753C34878}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
