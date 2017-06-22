@@ -1,5 +1,0 @@
-c:\users\pc\documents\visual studio 2017\Projects\Exercises - Lists\Tear List in Half\bin\Debug\Tear List in Half.exe.config
-c:\users\pc\documents\visual studio 2017\Projects\Exercises - Lists\Tear List in Half\bin\Debug\Tear List in Half.exe
-c:\users\pc\documents\visual studio 2017\Projects\Exercises - Lists\Tear List in Half\bin\Debug\Tear List in Half.pdb
-c:\users\pc\documents\visual studio 2017\Projects\Exercises - Lists\Tear List in Half\obj\Debug\Tear List in Half.exe
-c:\users\pc\documents\visual studio 2017\Projects\Exercises - Lists\Tear List in Half\obj\Debug\Tear List in Half.pdb

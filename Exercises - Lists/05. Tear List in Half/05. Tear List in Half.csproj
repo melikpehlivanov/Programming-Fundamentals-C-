@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AFB6D796-500E-4CD3-B1F0-C927C753A4FC}</ProjectGuid>
+    <ProjectGuid>{AAAB2C4C-0A6C-421A-8599-739B3428C8A3}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Tear_List_in_Half</RootNamespace>
-    <AssemblyName>Tear List in Half</AssemblyName>
+    <RootNamespace>_05.Tear_list_in_Half</RootNamespace>
+    <AssemblyName>_05.Tear_list_in_Half</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

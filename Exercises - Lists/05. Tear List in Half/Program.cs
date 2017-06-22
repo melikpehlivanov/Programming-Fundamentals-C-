@@ -1,29 +1,27 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Tear_List_in_Half
+﻿namespace Tear_List_in_Half
 {
-    class Program
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+
+    public class Program
     {
-        static void Main()
+        public static void Main()
         {
             var list = Console.ReadLine()
                 .Split(' ')
                 .Select(int.Parse)
                 .ToList();
 
-            var k = list.Count/2;
+            var k = list.Count / 2;
             var firstLeftPart = list
-                . Take(k)
+                .Take(k)
                 .ToList();
             var firstRightPart = list
                 .Skip(k)
                 .ToList();
 
-            var result=new List<int>();
+            var result = new List<int>();
 
             for (int i = 0; i < firstLeftPart.Count; i++)
             {

@@ -7,11 +7,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Remove Elements at Odd 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.TrackDownloader", "02.TrackDownloader\02.TrackDownloader.csproj", "{18B300A0-EC88-4F32-98F5-35CB29002413}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Equal Sum After Extraction", "3. Equal Sum After Extraction\3. Equal Sum After Extraction.csproj", "{6D19AB1E-6C5A-43BD-8549-521BD0ACA1AE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Equal Sum After Extraction", "3. Equal Sum After Extraction\03. Equal Sum After Extraction.csproj", "{6D19AB1E-6C5A-43BD-8549-521BD0ACA1AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Flip List Sides", "4. Flip List Sides\4. Flip List Sides.csproj", "{B2F396B0-748C-4666-905F-68AB0DFF84E5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Flip List Sides", "4. Flip List Sides\04. Flip List Sides.csproj", "{B2F396B0-748C-4666-905F-68AB0DFF84E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tear List in Half", "Tear List in Half\Tear List in Half.csproj", "{AFB6D796-500E-4CD3-B1F0-C927C753A4FC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. StuckZipper", "06. StuckZipper\06. StuckZipper.csproj", "{55DD73C7-A51D-4D7E-91BE-6AABB845EE28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Tear list in Half", "05. Tear list in Half\05. Tear list in Half.csproj", "{AAAB2C4C-0A6C-421A-8599-739B3428C8A3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,10 +37,14 @@ Global
 		{B2F396B0-748C-4666-905F-68AB0DFF84E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2F396B0-748C-4666-905F-68AB0DFF84E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2F396B0-748C-4666-905F-68AB0DFF84E5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AFB6D796-500E-4CD3-B1F0-C927C753A4FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AFB6D796-500E-4CD3-B1F0-C927C753A4FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AFB6D796-500E-4CD3-B1F0-C927C753A4FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AFB6D796-500E-4CD3-B1F0-C927C753A4FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55DD73C7-A51D-4D7E-91BE-6AABB845EE28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55DD73C7-A51D-4D7E-91BE-6AABB845EE28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55DD73C7-A51D-4D7E-91BE-6AABB845EE28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55DD73C7-A51D-4D7E-91BE-6AABB845EE28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAAB2C4C-0A6C-421A-8599-739B3428C8A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAAB2C4C-0A6C-421A-8599-739B3428C8A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAAB2C4C-0A6C-421A-8599-739B3428C8A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAAB2C4C-0A6C-421A-8599-739B3428C8A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

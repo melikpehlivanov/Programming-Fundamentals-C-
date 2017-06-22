@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Tear List in Half")]
+[assembly: AssemblyTitle("05. Tear list in Half")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Tear List in Half")]
+[assembly: AssemblyProduct("05. Tear list in Half")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("afb6d796-500e-4cd3-b1f0-c927c753a4fc")]
+[assembly: Guid("aaab2c4c-0a6c-421a-8599-739b3428c8a3")]
 
 // Version information for an assembly consists of the following four values:
 //
