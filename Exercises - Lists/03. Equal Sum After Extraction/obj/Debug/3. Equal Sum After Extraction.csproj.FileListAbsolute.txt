@@ -1,0 +1,5 @@
+c:\users\pc\documents\visual studio 2017\Projects\Exercises - Lists\3. Equal Sum After Extraction\bin\Debug\_3.Equal_Sum_After_Extraction.exe.config
+c:\users\pc\documents\visual studio 2017\Projects\Exercises - Lists\3. Equal Sum After Extraction\bin\Debug\_3.Equal_Sum_After_Extraction.exe
+c:\users\pc\documents\visual studio 2017\Projects\Exercises - Lists\3. Equal Sum After Extraction\bin\Debug\_3.Equal_Sum_After_Extraction.pdb
+c:\users\pc\documents\visual studio 2017\Projects\Exercises - Lists\3. Equal Sum After Extraction\obj\Debug\_3.Equal_Sum_After_Extraction.exe
+c:\users\pc\documents\visual studio 2017\Projects\Exercises - Lists\3. Equal Sum After Extraction\obj\Debug\_3.Equal_Sum_After_Extraction.pdb

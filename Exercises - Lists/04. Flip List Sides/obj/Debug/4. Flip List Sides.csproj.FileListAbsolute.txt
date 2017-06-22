@@ -1,0 +1,5 @@
+c:\users\pc\documents\visual studio 2017\Projects\Exercises - Lists\4. Flip List Sides\bin\Debug\_4.Flip_List_Sides.exe.config
+c:\users\pc\documents\visual studio 2017\Projects\Exercises - Lists\4. Flip List Sides\bin\Debug\_4.Flip_List_Sides.exe
+c:\users\pc\documents\visual studio 2017\Projects\Exercises - Lists\4. Flip List Sides\bin\Debug\_4.Flip_List_Sides.pdb
+c:\users\pc\documents\visual studio 2017\Projects\Exercises - Lists\4. Flip List Sides\obj\Debug\_4.Flip_List_Sides.exe
+c:\users\pc\documents\visual studio 2017\Projects\Exercises - Lists\4. Flip List Sides\obj\Debug\_4.Flip_List_Sides.pdb

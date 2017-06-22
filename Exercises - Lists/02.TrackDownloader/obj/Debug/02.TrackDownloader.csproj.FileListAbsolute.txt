@@ -1,0 +1,5 @@
+c:\users\pc\documents\visual studio 2017\Projects\Exercises - Lists\02.TrackDownloader\bin\Debug\02.TrackDownloader.exe.config
+c:\users\pc\documents\visual studio 2017\Projects\Exercises - Lists\02.TrackDownloader\bin\Debug\02.TrackDownloader.exe
+c:\users\pc\documents\visual studio 2017\Projects\Exercises - Lists\02.TrackDownloader\bin\Debug\02.TrackDownloader.pdb
+c:\users\pc\documents\visual studio 2017\Projects\Exercises - Lists\02.TrackDownloader\obj\Debug\02.TrackDownloader.exe
+c:\users\pc\documents\visual studio 2017\Projects\Exercises - Lists\02.TrackDownloader\obj\Debug\02.TrackDownloader.pdb

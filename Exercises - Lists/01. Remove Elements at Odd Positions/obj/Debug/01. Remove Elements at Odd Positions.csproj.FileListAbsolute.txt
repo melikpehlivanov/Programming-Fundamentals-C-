@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2017\Projects\Exercises - Lists\01. Remove Elements at Odd Positions\bin\Debug\_01.Remove_Elements_at_Odd_Positions.exe.config
+c:\users\pc\documents\visual studio 2017\Projects\Exercises - Lists\01. Remove Elements at Odd Positions\bin\Debug\_01.Remove_Elements_at_Odd_Positions.exe
+c:\users\pc\documents\visual studio 2017\Projects\Exercises - Lists\01. Remove Elements at Odd Positions\bin\Debug\_01.Remove_Elements_at_Odd_Positions.pdb
+c:\users\pc\documents\visual studio 2017\Projects\Exercises - Lists\01. Remove Elements at Odd Positions\obj\Debug\01. Remove Elements at Odd Positions.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2017\Projects\Exercises - Lists\01. Remove Elements at Odd Positions\obj\Debug\_01.Remove_Elements_at_Odd_Positions.exe
+c:\users\pc\documents\visual studio 2017\Projects\Exercises - Lists\01. Remove Elements at Odd Positions\obj\Debug\_01.Remove_Elements_at_Odd_Positions.pdb
