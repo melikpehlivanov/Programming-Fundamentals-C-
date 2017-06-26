@@ -1,0 +1,5 @@
+c:\users\pc\documents\visual studio 2017\Projects\More Exercises - Lists\4. UnunionLists\bin\Debug\_4.UnunionLists.exe.config
+c:\users\pc\documents\visual studio 2017\Projects\More Exercises - Lists\4. UnunionLists\bin\Debug\_4.UnunionLists.exe
+c:\users\pc\documents\visual studio 2017\Projects\More Exercises - Lists\4. UnunionLists\bin\Debug\_4.UnunionLists.pdb
+c:\users\pc\documents\visual studio 2017\Projects\More Exercises - Lists\4. UnunionLists\obj\Debug\_4.UnunionLists.exe
+c:\users\pc\documents\visual studio 2017\Projects\More Exercises - Lists\4. UnunionLists\obj\Debug\_4.UnunionLists.pdb

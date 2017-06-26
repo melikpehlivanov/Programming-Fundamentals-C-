@@ -1,0 +1,5 @@
+c:\users\pc\documents\visual studio 2017\Projects\More Exercises - Lists\5. NoteStatistics\bin\Debug\_5.NoteStatistics.exe.config
+c:\users\pc\documents\visual studio 2017\Projects\More Exercises - Lists\5. NoteStatistics\bin\Debug\_5.NoteStatistics.exe
+c:\users\pc\documents\visual studio 2017\Projects\More Exercises - Lists\5. NoteStatistics\bin\Debug\_5.NoteStatistics.pdb
+c:\users\pc\documents\visual studio 2017\Projects\More Exercises - Lists\5. NoteStatistics\obj\Debug\_5.NoteStatistics.exe
+c:\users\pc\documents\visual studio 2017\Projects\More Exercises - Lists\5. NoteStatistics\obj\Debug\_5.NoteStatistics.pdb

@@ -1,0 +1,5 @@
+c:\users\pc\documents\visual studio 2017\Projects\More Exercises - Lists\3. CamelsBack\bin\Debug\_3.CamelsBack.exe.config
+c:\users\pc\documents\visual studio 2017\Projects\More Exercises - Lists\3. CamelsBack\bin\Debug\_3.CamelsBack.exe
+c:\users\pc\documents\visual studio 2017\Projects\More Exercises - Lists\3. CamelsBack\bin\Debug\_3.CamelsBack.pdb
+c:\users\pc\documents\visual studio 2017\Projects\More Exercises - Lists\3. CamelsBack\obj\Debug\_3.CamelsBack.exe
+c:\users\pc\documents\visual studio 2017\Projects\More Exercises - Lists\3. CamelsBack\obj\Debug\_3.CamelsBack.pdb

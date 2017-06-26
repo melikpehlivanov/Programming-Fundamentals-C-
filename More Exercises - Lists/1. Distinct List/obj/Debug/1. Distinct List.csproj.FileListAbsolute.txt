@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2017\Projects\More Exercises - Lists\1. Distinct List\bin\Debug\_1.Distinct_List.exe.config
+c:\users\pc\documents\visual studio 2017\Projects\More Exercises - Lists\1. Distinct List\bin\Debug\_1.Distinct_List.exe
+c:\users\pc\documents\visual studio 2017\Projects\More Exercises - Lists\1. Distinct List\bin\Debug\_1.Distinct_List.pdb
+c:\users\pc\documents\visual studio 2017\Projects\More Exercises - Lists\1. Distinct List\obj\Debug\1. Distinct List.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2017\Projects\More Exercises - Lists\1. Distinct List\obj\Debug\_1.Distinct_List.exe
+c:\users\pc\documents\visual studio 2017\Projects\More Exercises - Lists\1. Distinct List\obj\Debug\_1.Distinct_List.pdb
