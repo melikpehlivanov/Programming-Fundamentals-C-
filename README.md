@@ -32,8 +32,7 @@ The course covers source control systems, **Git** and **GitHub** for team collab
 21. <a href=""> NESTED DICTIONARIES - EXERCISES </a>
 22. <a href=""> LAMBDA AND LINQ - Lab </a>
 23. <a href=""> LAMBDA AND LINQ - EXERCISES </a>
-24. <a href=""> LAMBDA AND LINQ - MORE EXERCISES
- </a>
+24. <a href=""> LAMBDA AND LINQ - MORE EXERCISES </a>
 25. <a href=""> OBJECTS AND SIMPLE CLASSES - Lab </a>
 26. <a href=""> OBJECTS AND SIMPLE CLASSES - EXERCISES </a>
 27. <a href=""> FILES, DIRECTORIES AND EXCEPTIONS - Lab </a>
