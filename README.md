@@ -9,24 +9,24 @@ The course covers source control systems, **Git** and **GitHub** for team collab
 
 
 ## Exercises and labs.
-1. <a href=""> C# INTRO AND BASIC SYNTAX </a> 
+1. <a href="https://github.com/melikpehlivanov/Programming-Fundamentals-CSharp/tree/master/Lab%20-%20CSharp%20-%20%20Intro%20and%20Basic%20Syntax"> C# INTRO AND BASIC SYNTAX </a> 
 2. <a href=""> C# INTRO AND BASIC SYNTAX - EXERCISES</a> 
-3. <a href=""> C# CONDITIONAL STATEMENTS AND LOOPS </a> 
-4. <a href=""> C# CONDITIONAL STATEMENTS AND LOOPS - EXERCISES</a>
-5. <a href=""> C# BASIC SYNTAX - MORE EXERCISES </a>
-6. <a href=""> DATA TYPES: NUMERAL TYPES AND TYPE CONVERSION </a>
-7. <a href=""> DATA TYPES - EXERCISES </a>
+3. <a href="https://github.com/melikpehlivanov/Programming-Fundamentals-CSharp/tree/master/CSharp%20-%20Conditional%20Statements%20and%20Loops%20-%20Lab"> C# CONDITIONAL STATEMENTS AND LOOPS - Lab </a> 
+4. <a href="https://github.com/melikpehlivanov/Programming-Fundamentals-CSharp/tree/master/CSharp%20-%20%20Conditional%20Statements%20and%20Loops%20-%20Exercises"> C# CONDITIONAL STATEMENTS AND LOOPS - EXERCISES</a>
+5. <a href="https://github.com/melikpehlivanov/Programming-Fundamentals-CSharp/tree/master/CSharp%20-%20%20Basic%20Syntax%20-%20More%20Exercises"> C# BASIC SYNTAX - MORE EXERCISES </a>
+6. <a href=""> DATA TYPES: NUMERAL TYPES AND TYPE CONVERSION - Lab </a>
+7. <a href="https://github.com/melikpehlivanov/Programming-Fundamentals-CSharp/tree/master/Exercises%20-%20Data%20Types%20and%20Variables"> DATA TYPES - EXERCISES </a>
 8. <a href=""> METHODS AND DEBUGGING </a>
-9. <a href=""> ARRAYS Lab </a>
-10. <a href=""> ARRAYS AND METHODS - EXERCISES </a>
-11. <a href=""> ARRAYS - MORE EXERCISES </a>
+9. <a href=""> ARRAYS - Lab </a>
+10. <a href="https://github.com/melikpehlivanov/Programming-Fundamentals-CSharp/tree/master/Exercises%20-%20Arrays%20and%20Methods"> ARRAYS AND METHODS - EXERCISES </a>
+11. <a href="https://github.com/melikpehlivanov/Programming-Fundamentals-CSharp/tree/master/Arrays%20-%20more%20exercises"> ARRAYS - MORE EXERCISES </a>
 12. <a href=""> LISTS - Lab </a>
-13. <a href=""> LISTS - EXERCISES </a>
-14. <a href=""> LISTS - MORE EXERCISES </a>
+13. <a href="https://github.com/melikpehlivanov/Programming-Fundamentals-CSharp/tree/master/Exercises%20-%20Lists"> LISTS - EXERCISES </a>
+14. <a href="https://github.com/melikpehlivanov/Programming-Fundamentals-CSharp/tree/master/More%20Exercises%20-%20Lists"> LISTS - MORE EXERCISES </a>
 15. <a href=""> ARRAY AND LIST ALGORITHMS </a>
 16. <a href=""> ARRAY AND LIST ALGORITHMS - EXERCISES </a>
 17. <a href=""> ARRAY AND LIST ALGORITHMS - MORE EXERCISES </a>
-18. <a href=""> DICTIONARIES - Lab </a>
+18. <a href="https://github.com/melikpehlivanov/Programming-Fundamentals-CSharp/tree/master/Dictorinaries%20-%20Lab"> DICTIONARIES - Lab </a>
 19. <a href=""> DICTIONARIES - EXERCISES </a>
 20. <a href=""> NESTED DICTIONARIES - Lab </a>
 21. <a href=""> NESTED DICTIONARIES - EXERCISES </a>
