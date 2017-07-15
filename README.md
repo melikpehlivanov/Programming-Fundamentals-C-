@@ -10,7 +10,7 @@ The course covers source control systems, **Git** and **GitHub** for team collab
 
 ## Exercises and labs.
 1. <a href="https://github.com/melikpehlivanov/Programming-Fundamentals-CSharp/tree/master/Lab%20-%20CSharp%20-%20%20Intro%20and%20Basic%20Syntax"> C# INTRO AND BASIC SYNTAX </a> 
-2. <a href=""> C# INTRO AND BASIC SYNTAX - EXERCISES</a> 
+2. <a href="https://github.com/melikpehlivanov/Programming-Fundamentals-CSharp/tree/master/Exercises%20-%20CSharp%20-%20Intro%20and%20Basic%20Syntax"> C# INTRO AND BASIC SYNTAX - EXERCISES</a> 
 3. <a href="https://github.com/melikpehlivanov/Programming-Fundamentals-CSharp/tree/master/CSharp%20-%20Conditional%20Statements%20and%20Loops%20-%20Lab"> C# CONDITIONAL STATEMENTS AND LOOPS - Lab </a> 
 4. <a href="https://github.com/melikpehlivanov/Programming-Fundamentals-CSharp/tree/master/CSharp%20-%20%20Conditional%20Statements%20and%20Loops%20-%20Exercises"> C# CONDITIONAL STATEMENTS AND LOOPS - EXERCISES</a>
 5. <a href="https://github.com/melikpehlivanov/Programming-Fundamentals-CSharp/tree/master/CSharp%20-%20%20Basic%20Syntax%20-%20More%20Exercises"> C# BASIC SYNTAX - MORE EXERCISES </a>
