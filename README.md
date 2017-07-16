@@ -27,7 +27,7 @@ The course covers source control systems, **Git** and **GitHub** for team collab
 16. <a href=""> ARRAY AND LIST ALGORITHMS - EXERCISES </a>
 17. <a href=""> ARRAY AND LIST ALGORITHMS - MORE EXERCISES </a>
 18. <a href="https://github.com/melikpehlivanov/Programming-Fundamentals-CSharp/tree/master/Dictorinaries%20-%20Lab"> DICTIONARIES - Lab </a>
-19. <a href=""> DICTIONARIES - EXERCISES </a>
+19. <a href="https://github.com/melikpehlivanov/Programming-Fundamentals-CSharp/tree/master/Dictionaries%20-%20Exercises"> DICTIONARIES - EXERCISES </a>
 20. <a href=""> NESTED DICTIONARIES - Lab </a>
 21. <a href=""> NESTED DICTIONARIES - EXERCISES </a>
 22. <a href=""> LAMBDA AND LINQ - Lab </a>
