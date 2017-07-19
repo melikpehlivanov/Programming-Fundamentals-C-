@@ -26,26 +26,26 @@ namespace _6.CottageScraper
             string wantedTypeOfTree = Console.ReadLine();
             int minimumMetersOfHeight = int.Parse(Console.ReadLine());
 
-            double logPrice = Math.Round(data.Average(kvp => kvp.Value), 2);
+            double AveragePrice = Math.Round(data.Average(k => k.Value), 2);
 
-            double usedLogsPrice = data
-                .Where(kvp => kvp.Key == wantedTypeOfTree && kvp.Value >= minimumMetersOfHeight)
-                .Sum(kvp => kvp.Value);
+            double usedDataPrice = data
+                .Where(x => x.Key == wantedTypeOfTree && x.Value >= minimumMetersOfHeight)
+                .Sum(x => x.Value);
 
-            double unusedLogsPrice = data
-                .Where(kvp => kvp.Key != wantedTypeOfTree || kvp.Value < minimumMetersOfHeight)
-                .Sum(kvp => kvp.Value);
+            double unusedDataPrice = data
+                .Where(x => x.Key != wantedTypeOfTree || x.Value < minimumMetersOfHeight)
+                .Sum(x => x.Value);
 
-            usedLogsPrice *= logPrice;
-            unusedLogsPrice *= logPrice * 0.25;
+            usedDataPrice *= AveragePrice;
+            unusedDataPrice *= AveragePrice * 0.25;
 
-            usedLogsPrice = Math.Round(usedLogsPrice, 2);
-            unusedLogsPrice = Math.Round(unusedLogsPrice, 2);
-            double totalPrice = Math.Round(usedLogsPrice + unusedLogsPrice, 2);
+            usedDataPrice = Math.Round(usedLogsPrice, 2);
+            unusedDataPrice = Math.Round(unusedLogsPrice, 2);
+            double totalPrice = Math.Round(usedDataPrice + unusedDataPrice, 2);
 
-            Console.WriteLine("Price per meter: ${0:F2}", logPrice);
-            Console.WriteLine("Used logs price: ${0:F2}", usedLogsPrice);
-            Console.WriteLine("Unused logs price: ${0:F2}", unusedLogsPrice);
+            Console.WriteLine("Price per meter: ${0:F2}", AveragePrice);
+            Console.WriteLine("Used logs price: ${0:F2}", usedDataPrice);
+            Console.WriteLine("Unused logs price: ${0:F2}", unusedDataPrice);
             Console.WriteLine("CottageScraper subtotal: ${0:F2}", totalPrice);
         }
     }
