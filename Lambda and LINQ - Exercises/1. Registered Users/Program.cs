@@ -5,9 +5,9 @@ using System.Linq;
 
 namespace _1.Registered_Users
 {
-    class Program
+    public class Program
     {
-        static void Main()
+        public static void Main()
         {
             Dictionary<string, DateTime> registeredUsernames = new Dictionary<string, DateTime>();
             string inputLine = Console.ReadLine();
