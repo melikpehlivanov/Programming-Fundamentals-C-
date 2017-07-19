@@ -30,7 +30,7 @@ The course covers source control systems, **Git** and **GitHub** for team collab
 19. <a href="https://github.com/melikpehlivanov/Programming-Fundamentals-CSharp/tree/master/Dictionaries%20-%20Exercises"> DICTIONARIES - EXERCISES </a>
 20. <a href="https://github.com/melikpehlivanov/Programming-Fundamentals-CSharp/tree/master/Nested%20Dictionaries%20-%20Lab"> NESTED DICTIONARIES - Lab </a>
 21. <a href=""> NESTED DICTIONARIES - EXERCISES </a>
-22. <a href=""> LAMBDA AND LINQ - Lab </a>
+22. <a href="https://github.com/melikpehlivanov/Programming-Fundamentals-CSharp/tree/master/Lambda%20and%20LINQ%20-%20Lab"> LAMBDA AND LINQ - Lab </a>
 23. <a href="https://github.com/melikpehlivanov/Programming-Fundamentals-CSharp/tree/master/Lambda%20and%20LINQ%20-%20Exercises"> LAMBDA AND LINQ - EXERCISES </a>
 24. <a href=""> LAMBDA AND LINQ - MORE EXERCISES </a>
 25. <a href=""> OBJECTS AND SIMPLE CLASSES - Lab </a>
