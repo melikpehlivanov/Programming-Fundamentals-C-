@@ -1,0 +1,206 @@
+# <p align="center">  Exams  <p>
+
+# Problem 1 – Wormtest
+
+The worms are having a contest – a Wormtest. In the Wormtest, every worm is given wormpoints depending on several statistics. Guess who&#39;s going to calculate those statistics... Yup, that&#39;s you!
+
+You will be given input data about a single wormtestant. You must calculate his wormpoints, depending on the given data.
+
+On the **first** line of input you will get the worm&#39;s **length** in **meters** ( **m** ), which will be an **integer**.
+
+On the **second** line of input you will get the worm&#39;s **width** , in **centimeters** ( **cm** ), which will be a **floating-point** **number**.
+
+You should **convert** the **length** in **centimeters**(**multiply **it by** 100**). Then you should**divide **the** length **and the** width **and find the** remainder **of the** division**.
+
+If it is **zero** or **cannot be calculated** , you should **print** the **product** of **the length** and **the width** ( **length** \* **width** ), **rounded** to the **second digit** after the **decimal point**.
+
+If the **remainder** is **NOT zero** , you should print what **percentage** is **the length** of **the width**.
+Print it **rounded** to the **second** **digit **after the** decimal point**.
+
+**Example** : **length = 1m ; width = 30cm. percentage = 333.33 %**.
+
+### Input
+
+- On the **first** input line you will receive the worm&#39;s **length** in **meters** ( **m** ).
+- On the **second** input line you will receive the worm&#39;s **width** in **centimeters** ( **cm** ).
+
+### Output
+
+- As output you must print the product of the **length** and the **width** or how much **percent** is the **length** of the **width**.
+- **Both** output results should be **rounded** and **printed** to the **second digit** after the **decimal point**.
+
+### Constrains
+
+- The worm&#39;s **length** will be a valid **integer** in **range [0, 1000]**.
+- The worm&#39;s **width** will be a **floating-point number** in **range [0, 1000.00]**.
+
+### Examples
+
+| **Input** | **Output** | **Comments** |
+| --- | --- | --- |
+| 1000 <br/> 200 | 20000000.00 | **length = 1000m. width = 200cm.** 1000m \* 100 = 100000cm **.** 100000 % 200 = 0 **. The** remainder **is** zero **. So we print the** product **of the two numbers,** rounded **to** the second digit **after the** decimal point. |
+| 40 <br/> 600 | 666.67% | **40m \* 100 = 4000cm.** 4000 % 600 = 400 **. The** remainder **is** 400 **. So we print how much** percent **the** length **is of the** width **,** rounded **to** the second digit **after the** decimal point **.** 4000 **is** 666.67 percent **of** 600. |
+
+# Problem 1.1 – SplinterTrip
+
+Sam the Spy just got his shiny new military aircraft, the C-147B Paladin, and a shiny new mission to carry out. The problem is, he needs to fly there using the Paladin, and you're going to help him with calculating the fuel consumption and total flight time.
+The Paladin, being a big plane, consumes a lot of fuel - 25L per mile to be exact.
+Also, before taking off, the commanding Fuel Consumption Officer (you) needs to calculate the miles traveled in heavy winds. Heavy winds need 1.5 times more fuel.
+Finally, since fuel consumption is always going to vary a little, we need to have a bit more fuel just in case. So, the total fuel amount we put in needs to increase by 5%.
+When we calculate the fuel consumption, we need to print it on the console in the following format:
+•	“Fuel needed: {totalFuelNeeded}L”
+After all of these calculations, we need to see if the fuel in the tank will be enough:
+•	If it’s enough, print: 
+o	“Enough with {remainingFuel}L to spare!”
+•	If the fuel won’t be enough, print:
+o	“We need {fuelNeeded}L more fuel.”
+All floating-point numbers in the output are rounded to the second decimal place.
+
+
+### Input
+
+•	First line – the trip distance in miles – floating-point number in range [1.00…250000.00].
+•	Second line – the fuel tank capacity in liters – floating-point number in range [1.00…100000.00].
+•	Third line – the miles spent in heavy winds – floating-point number in range [0.00…50000.00].
+
+
+### Output
+
+•	First line – The total fuel consumption – rounded to the second decimal place
+•	Second line – whether the plane will have enough fuel
+
+
+### Examples
+
+|Input	Output	Comments
+500.5
+14000
+50	Fuel needed: 13794.38L
+Enough with 205.63L to spare!	Travel distance – 500.5 miles
+Fuel tank capacity – 14000 liters
+Miles in heavy winds – 50
+Miles in non-heavy winds – 500.5-50  450.5
+Non-heavy winds consumption – 450.5*25  11262.5 liters
+Heavy winds consumption – 50*(25*1.5)  1875 liters
+Fuel consumption  11262.5+1875  13137.5 liters
+Tolerance – 13137.5*5%  656.875 liters
+Total Fuel Consumption  13137.5+656.875  13794.375 liters
+Remaining fuel – 14000-13794.375  205.625 liters (enough)
+9000
+235000
+230	Fuel needed: 239268.75L
+We need 4268.75L more fuel.	Travel distance – 9000 miles
+Fuel tank capacity – 235000 liters
+Miles in heavy winds – 230
+Miles in non-heavy winds – 9000-230  8770
+Non-heavy winds consumption – 8770*25  219250 liters
+Heavy winds consumption – 230*(25*1.5)  8625 liters
+Fuel consumption  219250+8625  227875 liters
+Tolerance – 227875*5%  11393.750 liters
+Total Fuel Consumption  227875+11393.750  239268.750 liters
+Remaining fuel – 235000-239268.750  -4268.750 liters (not enough)
+1000
+26250
+0	Fuel needed: 26250.00L
+Enough with 0.00L to spare!	Travel distance – 1000 miles
+Fuel tank capacity – 26250 liters
+Miles in non-heavy winds – 1000
+Non-heavy winds consumption – 1000*25  25000 liters
+Fuel consumption – 25000 liters
+Tolerance – 25000*5%  1250 liters
+Total Fuel Consumption  25000+1250  26250 liters
+Remaining fuel – 26250-26250  0 liters (enough)
+
+# Problem 3 – Wormhole
+
+Dr. Worm has advanced technologically to level where he can travel through wormholes. Wormholes are holes in reality, which allow you to travel to other dimensions. Dr. Worm however, does not know anything about the wormholes, so he just enters random holes in hopes of getting to his target point.
+
+You will be given a **sequence** of **integers** – the **wormholes** , on a **single input line** , **separated** by a **space**. The **integers** will either be **zeros** ( **0** ) or some **other integers**.
+
+You must start from the first one and reach the last one.
+
+If the **integer** you are **currently at** is a **zero** , you must **continue forward** to the **next element** of the sequence.
+
+If the **integer** you are **currently at** is **NOT** **zero**, it is a wormhole **. You must** go **to the** element **which is** at index **– thewormhole&#39;s** value.
+
+**Every time** you **step** on a **wormhole** , you must **set** its **value** to **0**.
+
+Your task is to **calculate** exactly **how many steps** it would take you to **reach** the **end** of the **sequence**.
+
+The wormhole&#39;s **teleportation** to the **target** index **does NOT count** as a **step**.
+
+**Example** : If we have the input &quot; **0 0 0 2 0 0 5**&quot; . . . the **steps** would look like this:
+
+
+![Not fount](/Programmin%20Fundamentals/OldExams/images/exam29.PNG)
+
+### Input
+
+- The input will come in the form of a **single input line** , containing a **sequence** of **integers** , **separated** by a **single** **space**.
+
+### Output
+
+- As **output** you must print **how many steps** it took you, to **reach** the **end** of the **sequence**.
+
+### Constrains
+
+- The **count** of **elements** in the input will be in **range [0, 100]**.
+- The **integers** in the input will be in **range [0, N - 1]**, where **N** is the **count** of **elements**.
+
+### Examples
+
+| **Input** | **Output** | **Comments** |
+| --- | --- | --- |
+| 0 0 0 2 0 0 5 | 9 | You start walking trough the elements. You make **4 steps** and you step on a **wormhole**. You **teleport** at **index** ( **2** ), and you set the wormhole&#39;s value to **0**. You make 4 more steps and you reach the next wormhole, which returns you to **index** ( **5** ). <br/> One last step and you have **reached** the **end** of the **sequence**.The result is **9 steps**. |
+
+| **Input** | **Output** |
+|---|---|
+| 0 0 1 0 2 0 4 0 | 13 |
+
+# Problem 4 – Worms World Party
+
+Worms World Party is a game where teams of worms fight each other with various weapons. Your task is to register the teams and the participants with their score, and sort out the teams by the total amount of their score.
+
+You will receive several input lines in the following format:
+
+**\{wormName} -&gt; \{teamName} -&gt; \{wormScore}**
+
+The **wormName** and **teamName** will be **strings** , consisting of **alphanumeric** characters **and** spaces.
+
+The **wormScore **will be an** integer**.
+Your task is to **store** every **team** and its **worms** with their **score**.
+If the **given** worm **already** **exists **in one of the** teams **, you should** IGNORE** that line of input.
+
+When you receive the command &quot; **quit**&quot; the input sequence ends. When that happens, you must order all teams and print them.
+
+The teams must be **ordered** **by total score **of their worms, in** descending order **, and if 2 teams have the** same total score**, they must be ordered by average score (**totalScore / wormCount**) in**descending order **. For each team you must print its worms,** ordered **by** descending order **of their** score**.
+
+### Input
+
+- The input comes in the form of input lines in the format, specified above.
+- The input sequence ends when you receive the command &quot; **quit**&quot;.
+
+### Output
+
+- As output you must print all the teams and their worms in the following order: <br/>
+
+**1. Team: \{team1Name}**  **– \{totalScore}** <br/>
+**###\{worm1Name} : \{worm1Score}** <br/>
+**###\{worm2Name} : \{worm2Score}** <br/>
+**. . .**
+
+**2. Team: \{team2Name} – \{totalScore}** <br/>
+ **. . .** &quot;
+
+### Constrains
+
+- The **wormName** and **teamName** will consist of **alphanumeric characters** and **spaces**.
+- The **wormScore** will be a valid integer in **range [0, 1.000.000.000]**.
+- There will be **NO invalid** input lines.
+
+### Examples
+
+| **Input** | **Output** |
+| --- | --- |
+| Donald -&gt; TheBest -&gt; 3 <br/> Jefrey -&gt; Overlords -&gt; 2 <br/> Johnathan -&gt; Overlords -&gt; 3 <br/> George -&gt; Psychos -&gt; 5 <br/> Alex -&gt; TheBest -&gt; 7 <br/> quit | 1. Team: TheBest - 10 <br/> ###Alex : 7 <br/> ###Donald : 3 <br/> 2. Team: Psychos - 5 <br/> ###George : 5 <br/> 3. Team: Overlords - 5 <br/> ###Johnathan : 3 <br/> ###Jefrey : 2 |
+| Tony Tony Chopper -&gt; Straw Hats -&gt; 10 <br/> Brook -&gt; Straw Hats -&gt; 5 <br/> Loffy -&gt; Fake Hats -&gt; 10 <br/> Brook -&gt; Fake Hats -&gt; 5 <br/> quit | 1. Team: Straw Hats - 15 <br/> ###Tony Tony Chopper : 10 <br/> ###Brook : 5 <br/> 2. Team: Fake Hats - 10 <br/> ###Loffy : 10 |
