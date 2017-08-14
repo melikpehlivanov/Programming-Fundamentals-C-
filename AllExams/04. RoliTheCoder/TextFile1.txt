@@ -1,0 +1,52 @@
+﻿Problem 4. Roli - The Coder
+Roli is really busy with the recently started JS Core and DB Fundamentals modules at SoftUni. She is used to going out with friends on a various events. However, when the times comes, you need to tell her to start coding.
+Roli is the organizer of those events, so she needs to keep track of the unique participants for each event. She saves the events by 'ID', which is the unique code for each event. For each ID, she keeps the event name and the participants for it.
+She receives request in the following format:
+•	{id} #{eventName} @{participant1} @{participant2} … @{participantN}
+If she is given event in an invalid format (such as without a hashtag), she ignores that line of input. If she is given ID that already exists she needs to check if the eventName is the same. If it is, she adds the participants from the request to the other registered participants. If the event id exists but the name doesn’t, it is invalid and you need to ignore it.
+After you receive "Time for Code", you need to print the results. All events must be sorted by participant count in descending order and then by alphabetical order. For each event, the participants must be sorted in alphabetical order.
+Input / Constrains
+•	Unil you receive “Time for Code” you will get lines of input in which everything is separated by one or more blank spaces
+•	Until you receive "Time for Code", you will be receiving events in the following format:
+o	{id} #{eventName} @{participant1} @{participant2} … @{participantN}
+Output
+•	All events must be sorted in descending order by participant count and then by alphabetical order. For each event you need to print:
+o	{eventName} – {participantCount}
+•	On the next lines you need to print all participants. All participants for an event must be sorted alphabetically.
+Examples
+Input	
+1 #Beers @roli @trophon @alice
+2 #GameDevMeetup @sino @valyo
+3 #Karaoke @nakov @royal @ROYAL @ivo
+Time for Code	
+Output
+Karaoke - 4
+@ivo
+@nakov
+@royal
+@ROYAL
+Beers - 3
+@alice
+@roli
+@trophon
+GameDevMeetup - 2
+@sino
+@valyo
+Input
+1 #Beers @roli @trophon @alice
+2 #GameDevMeetup @sino @valyo
+1 #Beers2 @nakov @royal @ROYAL @ivo
+1 #Beers @roli @trophon @alice @sino
+3 #Rakia
+Time for Code	
+Output
+Beers - 4
+@alice
+@roli
+@sino
+@trophon
+GameDevMeetup - 2
+@sino
+@valyo
+Rakia - 0
+

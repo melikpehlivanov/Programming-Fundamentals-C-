@@ -1,0 +1,47 @@
+﻿Problem 4. NSA
+Most people have probably heard the news about some dummy named Edward Snowden, who released some info about an American association called the NSA, which, by his words, was spying on innocent citizens. Who cares anyways, it’s America, not my country. Yeah well … Guess again, NSA is Global.
+The NSA creates a registry of spies. The input of data comes in the following format:
+{countryName} -> {spyName} -> {daysInService}
+The countryName and the spyName are both strings which may contain alphanumeric characters.
+The daysInService is an integer.
+If you get an existent country, add the new spy to it. If even the spy exists, update its daysInService, with the new given value.
+When you get the command “quit”, you terminate the program. Then you must print all countries and their spies.
+The countries must be ordered by amount of spies they have in descending order.
+The spies must be ordered by days in service, in descending order.
+Input
+•	The input comes in the format specified above.
+•	The input sequence ends when you receive the “quit” command.
+Output
+•	The countries and their spies must be printed in the following format:
+“Country: {country1Name}
+ **{spy1Name} : {spy1Score}
+ **{spy2Name} : {spy2Score}
+ . . . 
+ Country: {country2Name}
+ . . .”
+Constrains
+•	The countryName and the spyName are both strings which may contain alphanumeric characters.
+•	The daysInService will be a valid integer in range [0, 231 – 1].
+•	There will be NO invalid input lines.
+Examples
+Input
+Germany -> Duffy -> 1
+Australia -> Bond -> 7
+America -> Bond –> 5
+Germany -> Alex -> 4
+America -> Donald -> 4
+Germany -> Jeffrey -> 3
+Australia -> Jeffrey -> 4
+quit	
+Output
+Country: Germany
+**Alex : 4
+**Jeffrey : 3
+**Duffy : 1
+Country: Australia
+**Bond : 7
+**Jeffrey : 4
+Country: America
+**Bond : 5
+**Donald : 4
+

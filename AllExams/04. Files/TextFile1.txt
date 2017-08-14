@@ -1,0 +1,36 @@
+﻿Problem 4. Files
+You are given number of files with their full file paths and file sizes. You need to print all file names with a given extension that are present in a given root directory sorted by their file size in descending order. If two files have same size, order them by alphabetical order. 
+If a file name (file name + extension) appears more than once in a given root, save only its latest value. If a file name appears in more than one root, they are treated as different files.
+If there aren't any files that correspond to the query, print "No".
+Input / Constrains
+•	On the first line of input you will get N the number of files to be read from the console
+•	On the next N lines, you receive the actual files in the format "root\folder\filename.extension;filesize"
+•	There may be more than one folder e.g. files can be deeply nested
+•	On the last line you receive a query string in format "{extension} in {root}". You need to print all files with the given extension that are in present in the given root
+Output
+•	You need to print all files sorted by their size in descending order. 
+•	If two files have the same size, order them by alphabetical order.
+•	In the sorting of the strings, the lowercase letters come BEFORE the uppercase.
+•	Files should be printed in the given format "filename.extension - filesize KB" 
+•	If there aren't any movies that correspond to the query, print "No".
+Examples
+Input	Output
+4
+Windows\Temp\win.exe;5423
+Games\Wow\wow.exe;1024
+Games\Wow\patcher.cs;65212
+Games\Pirates\Start\keygen.exe;1024
+exe in Games	
+Output
+keygen.exe - 1024 KB 
+wow.exe - 1024 KB
+Input
+3
+C:\Documents\01. problems.docx;6521
+D:\Documents\02. Documents\ presentation.pptx;44234
+E:\Movies\Classics\someclassicmovie.avi;6221235212
+docx in E:
+Output
+No
+
+

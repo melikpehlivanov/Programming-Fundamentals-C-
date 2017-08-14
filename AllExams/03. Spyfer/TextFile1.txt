@@ -1,0 +1,33 @@
+﻿Problem 3. Spyfer
+Sam the spy has created a new system for tracking called “Spyfer”. But he needs you to write the software for it, because he is incompetent in programming.
+You will receive a sequence of integers, on a single input line, separated by spaces. Those integers will represent coordinates.
+Your task is to check every integer, if it is equal to the sum of its DIRECT neighboring elements. When you find an integer that follows this rule you should REMOVE the neighboring elements, and REPEAT the process again, from the start.
+If you reach the end of the sequence, you should terminate the program and print what’s left of the numbers, separated by spaces.
+Input
+•	The input comes in the form of a single input line, containing the integers, separated by space.
+Output
+•	As output, you must print, what’s left of the sequence, after you’ve processed it.
+•	Print the elements, separated by spaces.
+Constrains
+•	The integers in the input will be in range [0, 1000].
+Examples
+Input
+1 2 1	
+Output
+2	
+Comments
+We find the first element that is equal to the sum of its neighboring elements. That is 2.
+So we remove the neighbours and return to the start of the sequence.
+There is only 1 element, so we just pass it and reach the end of the sequence. We print what’s left of it. 
+
+3 2 8 0 1 1 4 3 6 2
+Output
+3 8 
+Comments
+1st step - 3 2 8 0 1 1 4 3 6 2
+2nd step - 3 2 8 1 4 3 6 2
+3rd step - 3 2 8 4 6 2
+4th step - 3 2 8 6
+5th step - 3 8
+We reach the end of the sequence and we print what’s left of it.
+
