@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Ressurection", "01. Ressurection\01. Ressurection.csproj", "{6AF4EF50-8E5A-4D67-A4E3-4373DA9B776C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Icarus", "02. Icarus\02. Icarus.csproj", "{C0E04CF1-1705-486A-AB17-908AE566DE4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. PhoenixGrid", "03. PhoenixGrid\03. PhoenixGrid.csproj", "{52B2A84D-67FE-401B-99CC-AADD97382E26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AF4EF50-8E5A-4D67-A4E3-4373DA9B776C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AF4EF50-8E5A-4D67-A4E3-4373DA9B776C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AF4EF50-8E5A-4D67-A4E3-4373DA9B776C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AF4EF50-8E5A-4D67-A4E3-4373DA9B776C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0E04CF1-1705-486A-AB17-908AE566DE4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0E04CF1-1705-486A-AB17-908AE566DE4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0E04CF1-1705-486A-AB17-908AE566DE4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0E04CF1-1705-486A-AB17-908AE566DE4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52B2A84D-67FE-401B-99CC-AADD97382E26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52B2A84D-67FE-401B-99CC-AADD97382E26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52B2A84D-67FE-401B-99CC-AADD97382E26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52B2A84D-67FE-401B-99CC-AADD97382E26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
